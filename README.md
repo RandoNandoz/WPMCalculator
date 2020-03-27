@@ -1,2 +1,2 @@
 # ImTooFastForBusinessClass
-YEET
+This is a console based WPM Calculator.
